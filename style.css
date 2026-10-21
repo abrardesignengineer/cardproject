@@ -1,0 +1,29 @@
+.profile-card{
+    background-color:#F1EDE5;
+    height: 400px;
+    width: 400px;
+   top: 150px;
+   position: relative;
+   padding-top: 100px;
+   box-sizing: border-box;
+}
+
+
+.avatar{
+    width: 68px;
+    height: 68Px;
+     border-radius:50%;
+    background-color: #D8C6AE;
+    position: absolute;
+    top: 30px;
+    left: 50%;
+     transform: translateX(-50%);
+}
+
+h1,p{
+    text-align: center;
+}
+
+.portfolio {
+    text-align: center;
+}
